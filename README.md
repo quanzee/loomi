@@ -1,5 +1,7 @@
 <h1>Loomi</h1>
 
+![app icon][loomi_icon.jpg]
+
 Loomi is an app similar to social review platforms like GoodReads or LetterBoxd but is aimed specifically at parents who want to find media with certain positive values for their young children. 
 
 ---
